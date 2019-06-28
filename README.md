@@ -1,2 +1,3 @@
 # hello-world
-Learning
+
+Trying something new and unfamiliar in the pursuit of knowledge.
